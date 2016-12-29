@@ -9,3 +9,7 @@ You have to specify the list of multicast IP addresses and the ID for each chann
 for example: 
 
 224.21.21.70 76
+
+After you create ch_list.txt.
+
+In my case the file ch_list.txt is located in /cs/, if you decide to place it in another directory, please modify the scirpt.
